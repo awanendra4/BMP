@@ -1,3 +1,9 @@
 Hello GIT, I am hear
 
 This my fist changes.
+
+<<<<<<< HEAD
+Hello Rakesh
+=======
+This my second changes......
+>>>>>>> b3452ad71370289dbf47205b0135902a218915ed
